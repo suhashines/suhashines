@@ -8,10 +8,6 @@ I am **Suhas Abdullah**, a passionate **Software Developer** specializing in **F
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhashines&show_icons=true&theme=dark)](https://github.com/suhashines)
 
-## 📊 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=suhashines&theme=react-dark)
-
 ## 📜 Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhashines&layout=compact&theme=dark)](https://github.com/suhashines)
