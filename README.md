@@ -31,5 +31,3 @@ I am **Suhas Abdullah**, a passionate **Software Developer** specializing in **F
 
 ---
 
-💡 *Feel free to customize this README and make it your own!* 🚀
-
